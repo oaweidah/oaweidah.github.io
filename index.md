@@ -10,3 +10,6 @@ layout: page
 - [Car-Model-Classifier](https://oaweidah.github.io/)
 - [Bus-Travel-Website](https://github.com/oaweidah/Bus-Travel-Website) 
 - [Roll-A-Ball](https://github.com/oaweidah/roll-a-ball)
+- [Space-SHUMP](https://github.com/oaweidah/space-SHUMP)
+- [Computer-Graphics-Project](https://github.com/oaweidah/Graphics-Final-Project)
+- [Yarn-Ninja](https://github.com/oaweidah/Yarn-Ninja)

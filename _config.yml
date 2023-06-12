@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Omar Aweidah
-description: An example of client interface to a computer vision API
+description: My Portfolio Website
 
 author:
   name: Omar Aweidah

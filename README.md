@@ -1,2 +1,1 @@
-# Omar Aweidah Portfolio Website
-A couple of projects I made over the years.
+# My Gihub Pages site for portfolio and car model classifier.
